@@ -1,0 +1,6 @@
+git init - инициализация репозитория
+git add - добавить файлы в staging
+git commit -m "message" - создать коммит
+git status - проверить статус
+git branch - посмотреть ветки
+Git commands and instructions 
