@@ -22,4 +22,4 @@ jobs:
         run: pip install pytest
 
       - name: Run tests
-        run: pytest
+        run: pytest /home/vboxuser/test-1
